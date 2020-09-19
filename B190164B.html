@@ -76,7 +76,7 @@
 </head>
 
 <body>
-    <img src="img/intro.jpg" alt="Image" style="width:1785px; height:1432px;" 
+    <img src="img/FEIT.jpg" alt="Image" style="width:1785px; height:1432px;" 
 <form action="/action_page.php" method="post" target="_blank">
   <label for="name">Name:</label>
   <input type="text" id="name" name="name"><br><br>
