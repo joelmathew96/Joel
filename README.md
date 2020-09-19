@@ -31,7 +31,6 @@
 
 <nav style="position: sticky; top: 0;z-index: 10;" class="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
 
-<form action="/action_page.php" method="post" target="_blank">
   <div class="social-icons section">
   
   <div style="float: top">
@@ -48,7 +47,8 @@
 </div>
   <div class="container">
           <div style="float: right"> 
-        <img src="img/SUC.png" alt="Image" style="width:200px; height:200px;" >
+        <img src="img/SUC.png" alt="Image" style="width:100px; height:100px;" >
+            <form action="/action_page.php" method="post" target="_blank">
   <label for="name">Name:</label>
   <input type="text" id="name" name="name"><br><br>
   <label for="cnumber">Contact Number:</label>
