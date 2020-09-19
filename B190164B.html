@@ -1,9 +1,6 @@
 <html lang="en">
 <body style="background-color:powderblue;">
-<div class="container">
-          <div style="float:right"> 
-        <img src="img/SUC.png" alt="Image" style="width:100px; height:100px;" >
-  
+
 
 <head>
 
