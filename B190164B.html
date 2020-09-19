@@ -46,6 +46,9 @@
     </a>
   </div>
 </div>
+  <div class="container">
+      <div class="intro">
+        <img src="img/FEIT.jpg" alt="Image" style="width:1785px; height:1432px;" >
   <label for="name">Name:</label>
   <input type="text" id="name" name="name"><br><br>
   <label for="cnumber">Contact Number:</label>
