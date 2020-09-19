@@ -30,7 +30,9 @@
  
 
 <nav style="position: sticky; top: 0;z-index: 10;" class="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
-
+<div class="container">
+          <div style="float: right"> 
+        <img src="img/SUC.png" alt="Image" style="width:100px; height:100px;" >
   <div class="social-icons section">
   
   <div style="float: top">
@@ -45,9 +47,7 @@
     </a>
   </div>
 </div>
-  <div class="container">
-          <div style="float: left"> 
-        <img src="img/SUC.png" alt="Image" style="width:100px; height:100px;" >
+  
             <form action="/action_page.php" method="post" target="_blank">
   <label for="name">Name:</label>
   <input type="text" id="name" name="name"><br><br>
