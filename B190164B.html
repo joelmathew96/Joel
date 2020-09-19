@@ -26,7 +26,7 @@
   padding: 20px;
   font-size: 30px;
   width: 50px;
-  text-align: center;
+  text-align: right;
   text-decoration: none;
   margin: 5px 2px;
 }
