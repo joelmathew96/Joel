@@ -120,10 +120,7 @@
           <div class="cta-inner text-center rounded">
            
             
-          </div>
-        </div>
-      </div>
-    </div>
+         
   </section>
 
   <footer class="footer text-faded text-center py-5">
