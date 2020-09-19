@@ -76,6 +76,7 @@
 </head>
 
 <body>
+    <img src="img/intro.jpg" alt="Image" style="width:1785px; height:1432px;" 
 <form action="/action_page.php" method="post" target="_blank">
   <label for="name">Name:</label>
   <input type="text" id="name" name="name"><br><br>
@@ -106,22 +107,7 @@
 
 
 
-  <section class="page-section clearfix">
-    <div class="container">
-      <div class="intro">
-     
-   
-  </section>
-
-  <section class="page-section cta">
-    <div class="container">
-      <div class="row">
-        <div class="col-xl-9 mx-auto">
-          <div class="cta-inner text-center rounded">
-           
-            
-         
-  </section>
+  
 
   <footer class="footer text-faded text-center py-5">
     
