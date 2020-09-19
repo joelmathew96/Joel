@@ -47,8 +47,8 @@
   </div>
 </div>
   <div class="container">
-      
-        <img src="img/SUC.png" alt="Image" style="width:1785px; height:1432px;" >
+          <div style="float: right"> 
+        <img src="img/SUC.png" alt="Image" style="width:200px; height:200px;" >
   <label for="name">Name:</label>
   <input type="text" id="name" name="name"><br><br>
   <label for="cnumber">Contact Number:</label>
