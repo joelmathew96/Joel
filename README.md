@@ -30,11 +30,7 @@
  
 
 <nav style="position: sticky; top: 0;z-index: 10;" class="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
-<div class="container">
-          <div style="float: right"> 
-        <img src="img/SUC.png" alt="Image" style="width:100px; height:100px;" >
-  <div class="social-icons section">
-  
+
   <div style="float: top">
     <a href="https://www.facebook.com/currentrms" target="_blank">
       <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/facebook-sociocon.png" style="max-height: 32px;" alt="Facebook">
@@ -63,7 +59,10 @@
 </form>
  
 
- 
+ <div class="container">
+          <div style="float: right"> 
+        <img src="img/SUC.png" alt="Image" style="width:100px; height:100px;" >
+  <div class="social-icons section">
   
   
       
