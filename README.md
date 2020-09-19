@@ -60,7 +60,7 @@
  
 
  <div class="container">
-          <div style="float: right"> 
+          <div style="float: left"> 
         <img src="img/SUC.png" alt="Image" style="width:100px; height:100px;" >
   <div class="social-icons section">
   
