@@ -103,8 +103,7 @@
 <a href="#" class="fa fa-linkedin"></a>
 <a href="#" class="fa fa-youtube"></a>
 <a href="#" class="fa fa-instagram"></a>
-<a href="#" class="fa fa-pinterest"></a
-   
+
 
 
   <section class="page-section clearfix">
