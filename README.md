@@ -34,6 +34,7 @@
   
             <form action="/action_page.php" method="post" target="_blank">
                <div style="float: top">
+                   <div class="social-icons section">
     <a href="https://www.facebook.com/currentrms" target="_blank">
       <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/facebook-sociocon.png" style="max-height: 32px;" alt="Facebook">
     </a>
@@ -43,7 +44,7 @@
     <a href="https://www.youtube.com/channel/UCtr9hX3v4gp_rZ7RonxG7hA" target="_blank">
       <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/youtube-sociocon.png" style="max-height: 32px;" alt="YouTube">
     </a>
-  </div>
+
 </div>
   <label for="name">Name:</label>
   <input type="text" id="name" name="name"><br><br>
@@ -62,7 +63,7 @@
  <div class="container">
           <div style="float: left"> 
         <img src="img/SUC.png" alt="Image" style="width:100px; height:100px;" >
-  <div class="social-icons section">
+
   
   
       
