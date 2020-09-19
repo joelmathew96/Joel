@@ -32,7 +32,7 @@
 <nav style="position: sticky; top: 0;z-index: 10;" class="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
 
             <form action="/action_page.php" method="post" target="_blank">
-               <div style="float: top">
+               <div style="float: left">
                    <div class="social-icons section">
     <a href="https://www.facebook.com/currentrms" target="_blank">
       <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/facebook-sociocon.png" style="max-height: 32px;" alt="Facebook">
@@ -83,7 +83,7 @@
 
 
 
-asdas
+
 <head>
 
   <meta charset="utf-8">
