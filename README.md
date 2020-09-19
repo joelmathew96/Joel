@@ -81,11 +81,18 @@
 <div class="topright">
       
 <a href="#" class="fa fa-facebook"></a>
+ <a href="https://www.facebook.com/" target="_blank">
 <a href="#" class="fa fa-twitter"></a>
+   <a href="https://www.twitter.com/" target="_blank">
 <a href="#" class="fa fa-google"></a>
+      <a href="https://www.google+.com/currentrms" target="_blank">
 <a href="#" class="fa fa-linkedin"></a>
+         <a href="https://www.linkedin.com/currentrms" target="_blank">
 <a href="#" class="fa fa-youtube"></a>
+            <a href="https://www.youtube.com/currentrms" target="_blank">
 <a href="#" class="fa fa-instagram"></a>
+               <a href="https://www.instagram.com/currentrms" target="_blank">
+
 <form action="/action_page.php" method="post" target="_blank">
   <label for="name">Name:</label>
   <input type="text" id="name" name="name"><br><br>
