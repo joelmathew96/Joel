@@ -57,11 +57,11 @@
      <label for="proginfo">Programme Information:</label>
   <input type="text" id="proginfo" name="proginfo"><br><br>
   <input type="submit" value="Submit">
-</form>
+
  
 
  <div class="container">
-          <div style="float: left"> 
+          <div style="float: right"> 
         <img src="img/SUC.png" alt="Image" style="width:100px; height:100px;" >
 
   
