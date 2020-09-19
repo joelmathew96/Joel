@@ -44,6 +44,9 @@
     <a href="https://www.youtube.com/channel/UCtr9hX3v4gp_rZ7RonxG7hA" target="_blank">
       <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/youtube-sociocon.png" style="max-height: 32px;" alt="YouTube">
     </a>
+<div class="container">
+          <div style="float:right"> 
+        <img src="img/SUC.png" alt="Image" style="width:100px; height:100px;" >
 
 
   <label for="name">Name:</label>
