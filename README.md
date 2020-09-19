@@ -46,7 +46,7 @@
   </div>
 </div>
   <div class="container">
-          <div style="float: right"> 
+          <div style="float: left"> 
         <img src="img/SUC.png" alt="Image" style="width:100px; height:100px;" >
             <form action="/action_page.php" method="post" target="_blank">
   <label for="name">Name:</label>
