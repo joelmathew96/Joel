@@ -45,7 +45,7 @@
       <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/youtube-sociocon.png" style="max-height: 32px;" alt="YouTube">
     </a>
 
-</div>
+
   <label for="name">Name:</label>
   <input type="text" id="name" name="name"><br><br>
   <label for="cnumber">Contact Number:</label>
