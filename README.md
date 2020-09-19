@@ -45,7 +45,7 @@
       <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/youtube-sociocon.png" style="max-height: 32px;" alt="YouTube">
     </a>
 <div class="container">
-          <div style="float:right"> 
+          <div style="float:left"> 
         <img src="img/SUC.png" alt="Image" style="width:100px; height:100px;" >
 
 
@@ -63,9 +63,6 @@
 
  
 
-<div class="container">
-          <div style="float: top"> 
-        <img src="img/SUC.png" alt="Image" style="width:100px; height:100px;" >
 
   
   
