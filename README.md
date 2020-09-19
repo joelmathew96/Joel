@@ -110,9 +110,7 @@
     <div class="container">
       <div class="intro">
      
-        </div>
-      </div>
-    </div>
+   
   </section>
 
   <section class="page-section cta">
