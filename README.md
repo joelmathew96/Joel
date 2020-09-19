@@ -12,7 +12,7 @@
 
   <title>Registration Form</title>
 
-  <!-- Bootstrap core CSS -->
+  <!-- Bootstrap core CSS -->          
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Custom fonts for this template -->
@@ -111,7 +111,7 @@
   <section class="page-section clearfix">
     <div class="container">
       <div class="intro">
-        
+          <img src="img/FEIT.jpg" alt="Image" style="width:225px; height:225px;" 
         </div>
       </div>
     </div>
@@ -139,5 +139,8 @@
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+
+
 
 
