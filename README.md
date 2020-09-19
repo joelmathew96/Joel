@@ -44,7 +44,7 @@
       <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/youtube-sociocon.png" style="max-height: 32px;" alt="YouTube">
     </a>
 
-
+</form>
 
   <label for="name">Name:</label>
   <input type="text" id="name" name="name"><br><br>
@@ -111,7 +111,7 @@
 
  
 
-<nav style="position: sticky; top: 0;z-index: 10;" class="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
+
 
  
 
