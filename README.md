@@ -26,7 +26,7 @@
 </head>
 
 <body>
-   <div style="float:center">
+   <div style="float:left">
     <img src="img/SUC.png" style="width:100px;height:100px;">
  
  <div style="float: top">
