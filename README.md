@@ -32,6 +32,17 @@
 <nav style="position: sticky; top: 0;z-index: 10;" class="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
 
             <form action="/action_page.php" method="post" target="_blank">
+               <label for="name">Name:</label>
+  <input type="text" id="name" name="name"><br><br>
+  <label for="cnumber">Contact Number:</label>
+  <input type="text" id="cnumber" name="cnumber"><br><br>
+   <label for="rarea">Residential Area:</label>
+  <input type="text" id="rarea" name="rarea"><br><br>
+    <label for="ygraduate">Year of graduate:</label>
+  <input type="text" id="ygraduate" name="ygraduate"><br><br>
+     <label for="proginfo">Programme Information:</label>
+  <input type="text" id="proginfo" name="proginfo"><br><br>
+  <input type="submit" value="Submit">
                <div style="float: top">
                    <div class="social-icons section">
     <a href="https://www.facebook.com/currentrms" target="_blank">
@@ -44,23 +55,9 @@
       <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/youtube-sociocon.png" style="max-height: 32px;" alt="YouTube">
     </a>
 
-</form>
-
-  <label for="name">Name:</label>
-  <input type="text" id="name" name="name"><br><br>
-  <label for="cnumber">Contact Number:</label>
-  <input type="text" id="cnumber" name="cnumber"><br><br>
-   <label for="rarea">Residential Area:</label>
-  <input type="text" id="rarea" name="rarea"><br><br>
-    <label for="ygraduate">Year of graduate:</label>
-  <input type="text" id="ygraduate" name="ygraduate"><br><br>
-     <label for="proginfo">Programme Information:</label>
-  <input type="text" id="proginfo" name="proginfo"><br><br>
-  <input type="submit" value="Submit">
-
- 
 
 
+  
   
   
       
