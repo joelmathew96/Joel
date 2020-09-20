@@ -32,6 +32,17 @@
 <nav style="position: sticky; top: 0;z-index: 10;" class="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
 
             <form action="/action_page.php" method="post" target="_blank">
+              <div style="float: top">
+                   <div class="social-icons section">
+    <a href="https://www.facebook.com/currentrms" target="_blank">
+      <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/facebook-sociocon.png" style="max-height: 32px;" alt="Facebook">
+    </a>
+    <a href="https://twitter.com/currentrms" target="_blank">
+      <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/twitter-sociocon.png" style="max-height: 32px;" alt="Twitter">
+    </a>
+    <a href="https://www.youtube.com/channel/UCtr9hX3v4gp_rZ7RonxG7hA" target="_blank">
+      <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/youtube-sociocon.png" style="max-height: 32px;" alt="YouTube">
+    </a>
                <label for="name">Name:</label>
   <input type="text" id="name" name="name"><br><br>
   <label for="cnumber">Contact Number:</label>
@@ -43,17 +54,7 @@
      <label for="proginfo">Programme Information:</label>
   <input type="text" id="proginfo" name="proginfo"><br><br>
   <input type="submit" value="Submit">
-               <div style="float: top">
-                   <div class="social-icons section">
-    <a href="https://www.facebook.com/currentrms" target="_blank">
-      <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/facebook-sociocon.png" style="max-height: 32px;" alt="Facebook">
-    </a>
-    <a href="https://twitter.com/currentrms" target="_blank">
-      <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/twitter-sociocon.png" style="max-height: 32px;" alt="Twitter">
-    </a>
-    <a href="https://www.youtube.com/channel/UCtr9hX3v4gp_rZ7RonxG7hA" target="_blank">
-      <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/youtube-sociocon.png" style="max-height: 32px;" alt="YouTube">
-    </a>
+              
 
 
 
