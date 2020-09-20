@@ -93,6 +93,8 @@
   <meta name="author" content="">
 
   <title>Registration Form</title>
+   <div style="float:right">
+    <img src="img/SUC.png" style="width:100px;height:100px;">
 
   <!-- Bootstrap core CSS -->          
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
