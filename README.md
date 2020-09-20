@@ -45,6 +45,7 @@
 <nav style="position: sticky; top: 0;z-index: 10;" class="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
              <div style="float:right">
     <img src="img/SUC.png" style="width:100px;height:100px;">
+  </div>
             <form action="/action_page.php" method="post" target="_blank">
             
                <label for="name">Name:</label>
