@@ -37,6 +37,8 @@
     <a href="https://www.youtube.com/channel/UCtr9hX3v4gp_rZ7RonxG7hA" target="_blank">
       <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/youtube-sociocon.png" style="max-height: 32px;" alt="YouTube">
     </a>
+  <div style="float:right">
+    <img src="img/SUC.png" style="width:100px;height:100px;">
  
 
 <nav style="position: sticky; top: 0;z-index: 10;" class="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
