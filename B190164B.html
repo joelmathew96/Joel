@@ -37,7 +37,7 @@
     <a href="https://www.youtube.com/channel/UCtr9hX3v4gp_rZ7RonxG7hA" target="_blank">
       <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/youtube-sociocon.png" style="max-height: 32px;" alt="YouTube">
     </a>
-  <div style="float:right">
+  <div style="float:center">
     <img src="img/SUC.png" style="width:100px;height:100px;">
  
 
@@ -93,9 +93,7 @@
   <meta name="author" content="">
 
   <title>Registration Form</title>
-   <div style="float:right">
-    <img src="img/SUC.png" style="width:100px;height:100px;">
-
+ 
   <!-- Bootstrap core CSS -->          
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
