@@ -26,10 +26,10 @@
 </head>
 
 <body>
-   <div style="float:left">
-    <img src="img/SUC.png" style="width:100px;height:100px;">
- 
+   
  <div style="float: top">
+   <div style="float:right">
+    <img src="img/SUC.png" style="width:100px;height:100px;">
                    <div class="social-icons section">
     <a href="https://www.facebook.com/currentrms" target="_blank">
       <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/facebook-sociocon.png" style="max-height: 32px;" alt="Facebook">
